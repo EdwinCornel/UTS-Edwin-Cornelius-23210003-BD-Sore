@@ -1,0 +1,182 @@
+body{
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 2%;
+}
+
+.judul{
+    text-align: right;
+    margin-right: 5%;
+    margin-top: 4%;
+    border-right-style: solid;
+    padding-right: 1%;
+}
+
+
+.sejarah{
+    display: flex;
+}
+
+.sejarah img{
+    width: 40%;
+    margin-top: 1%;
+    margin-left: 4%;
+}
+
+.sejarah p{
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    text-align: justify;
+    margin-top: 1%;
+    margin-left: 4%;
+    margin-right: 6%;
+    width: 85%;
+}
+
+.sejarah div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.sejarah h3{
+    padding-bottom: 1%;
+    margin-bottom: 1%;
+    border-bottom: solid;
+}
+
+
+.dosen{
+    width: 90%;
+    margin-top: 5%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.vm{
+    width: 90%;
+    margin-top: 2%;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.vm h3{
+    margin-bottom: 1%;
+}
+
+.visi, .misi{
+    margin-bottom: 2%;
+}
+
+
+
+.prodi{
+    display: flex;
+    justify-content: end;
+    margin-top: 3%;
+    margin-right: 6%;
+    width: 100%;
+    margin-bottom: 4%;
+}
+
+.nama_prodi{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    margin-right: 6%;
+}
+
+.prodi p{
+    font-size: 16px;
+    display: flex;
+    text-align: right;
+    justify-content: end;
+    margin-top: 1%;
+    margin-left: 4%;
+    width: 100%;
+}
+
+.prodi h3{
+    padding-bottom: 1%;
+    margin-bottom: 3%;
+    border-bottom: solid;
+    width: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: end;  
+    text-align: end;  
+}
+
+
+
+.lokasi{
+    display: flex;
+}
+
+.lokasi img{
+    width: 40%;
+    margin-top: 1%;
+    margin-left: 4%;
+}
+
+.lokasi p{
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-left: 4%;
+    margin-right: 6%;
+    width: 100%;
+}
+
+.lokasi div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.lokasi h3{
+    padding-bottom: 1%;
+    margin-bottom: 3%;
+    border-bottom: solid;
+    width: max-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+a:link{
+    color: #973f3c;
+    text-decoration: none;
+}
+
+a:visited{
+    color: #973f3c;
+}
+
+a:hover{
+    color: #ffcc00;
+}
+
+.note{
+    color: red;
+}
+
+button{
+    margin-left: 4%;
+    margin-top: 4%;
+    margin-bottom: 2%;
+    background-color: rgb(70, 214, 190);
+    border: none;
+    border-radius: 12px;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    width: 10%;
+}

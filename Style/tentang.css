@@ -1,0 +1,249 @@
+body{
+    font-family: "Poppins", sans-serif;
+    margin-bottom: 2%;
+}
+.img {
+    display: flex;
+    width: 100%;
+}
+.img img{
+    border-radius: 50%;
+    margin: 5% auto 0;
+    width: 20%;
+    height: 20%;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 3% auto 0;
+}
+
+.judul{
+    display: flex;
+    justify-content: center;
+    margin: 2% auto 0;
+    font-size: 18px;
+}
+
+
+
+
+.diri{
+    display: flex;
+    margin-top: 2%;
+}
+
+.diri p{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.nama{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 18%;
+    border-right-style: solid;
+    border-color: black;
+    border-right: 2%;
+    margin-left: 4.5%;
+}
+
+.umur{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 18%;
+    border-right-style: solid;
+    border-color: black;
+    border-right: 2%;
+}
+
+.tanggal_lahir{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 18%;
+    border-right-style: solid;
+    border-color: black;
+    border-right: 2%;
+}
+
+.hobi{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 18%;
+    border-right-style: solid;
+    border-color: black;
+    border-right: 2%;
+}
+
+.makanan{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 18%;
+    margin-right: 4.5%;
+}
+
+
+
+
+.row1{
+    display: flex;
+    width: 80%;
+    margin: 0% auto;
+}
+
+.column1{
+    justify-content: center;
+    width: 50%;
+    margin: 0% auto 0;
+    border-right-style: solid;
+}
+
+.column1 h4{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.column1 .sd1{
+    display: flex;
+    width: 100%;
+}
+
+.column1 img{
+    align-items: left;
+    width: 55px;
+    height: 65px;
+    margin-left: 8%;
+    margin-right: 5%;
+}
+
+.column1 p{
+    display: flex;
+    justify-content: left;
+    margin-left: 3%;
+    align-items: center;
+}
+
+
+.column2{
+    justify-content: center;
+    width: 50%;
+    margin: 0% auto 0;
+}
+
+.column2 h4{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.column2 .smp1{
+    display: flex;
+    width: 100%;
+}
+
+.column2 img{
+    align-items: left;
+    width: 55px;
+    height: 65px;
+    margin-left: 10%;
+    margin-right: 5%;
+}
+
+.column2 p{
+    display: flex;
+    justify-content: left;
+    margin-left: 5%;
+    align-items: center;
+}
+
+
+
+
+
+.row2{
+    display: flex;
+    width: 80%;
+    margin: 0% auto;
+}
+
+.column3{
+    justify-content: center;
+    width: 50%;
+    margin: 0% auto 0;
+    border-right-style: solid;
+}
+
+.column3 h4{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.column3 .smk{
+    display: flex;
+    width: 100%;
+}
+
+.column3 img{
+    align-items: left;
+    width: 55px;
+    height: 65px;
+    margin-left: 8%;
+    margin-right: 5%;
+}
+
+.column3 p{
+    display: flex;
+    justify-content: left;
+    margin-left: 3%;
+    align-items: center;
+}
+
+
+
+.column4{
+    justify-content: center;
+    width: 50%;
+    margin: 0% auto 0;
+}
+
+
+.column4 h4{
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.column4 .kuliah{
+    display: flex;
+    width: 100%;
+}
+
+.column4 img{
+    align-items: left;
+    width: 65px;
+    height: 65px;
+    margin-left: 9%;
+    margin-right: 4.5%;
+}
+
+.column4 p{
+    display: flex;
+    justify-content: left;
+    margin-left: 5%;
+    align-items: center;
+}

@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    background-color:rgb(255, 255, 255);
+    font-family: 'Poppins', sans-serif;
+}
+
+.bagian1{
+    display: flex;
+}
+
+.bagian1 h1 {
+    margin-left: 15%;
+    margin-right: 10%;
+    margin-top: 15%;
+    margin-bottom: 15px;
+    width: 70%;
+}
+
+.bagian1 p{
+    font-size: 23px;
+    margin-left: 15%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.bagian1 div {
+    width: 55%;
+}
+
+.bagian1 img{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: auto;
+    margin-bottom: 5%;
+    height: 25%;
+    width: 25%;
+    border-radius: 50%;
+}
+
+.bagian1 button{
+    margin-left: 15%;   
+    margin-right: 35%;
+    margin-top: 15px;
+    margin-bottom: 5%;
+    background-color: rgb(70, 214, 190);
+    border: none;
+    border-radius: 12px;
+    font-size: 20px;
+    font-family: "Poppins", sans-serif;
+    width: 30%;
+}
+
+.bagian1 h4{
+    margin-left: 15%;
+}

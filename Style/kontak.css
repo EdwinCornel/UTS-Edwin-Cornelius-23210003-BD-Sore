@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Jersey+25&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+.kontak{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 35px;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    font-size: 20px;
+    width: max-content;
+    border-bottom: 2px solid;
+}
+
+.ig img{
+    width: 40px;
+    margin-right: 10px;
+}
+
+.ig a{
+    display: flex;
+    margin-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.ig p{
+    margin: 5px;
+}
+
+.wa img{
+    width: 40px;
+    margin-right: 10px;
+}
+
+.wa a{
+    display: flex;
+    margin-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.wa p{
+    margin: 5px;
+}
+
+.email img{
+    width: 40px;
+    margin-right: 10px;
+}
+
+.email a{
+    display: flex;
+    margin-left: 35px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.email p{
+    margin: 5px;
+}
